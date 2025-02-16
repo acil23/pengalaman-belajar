@@ -1,6 +1,6 @@
 ## pengalaman-belajar
 
-Pengalaman Belajar di Dicoding
+Progress Belajar di Dicoding
 
 **10 Februari 2025**<br>
 Belajar kelas Memulai Pemrograman dengan JavaScript. (Progres 21%)  
