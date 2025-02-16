@@ -12,5 +12,3 @@ Belajar kelas Memulai Pemrograman dengan JavaScript. (Progres 56%)
 * Belajar dasar-dasar JavaScript, seperti struktur dasar, tipe data, string, operator, input output, dan array.
 * Belajar control flow dalam JavaScript, seperti perulangan dan percabangan.
 * Belajar tipe data koleksi, seperti list, set, dan map.
-
-**Sekarang memasuki latihan membuat branch baru di GitHub**
